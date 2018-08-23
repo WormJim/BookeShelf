@@ -1,4 +1,4 @@
 # config files
-api/config
+/api/config
 # dependencies
 /node_modules
