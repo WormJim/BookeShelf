@@ -1,4 +1,6 @@
 # config files
 **/config/db.js
+**/config/passport.js
+
 # dependencies
 /node_modules
