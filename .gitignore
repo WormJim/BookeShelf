@@ -1,4 +1,4 @@
 # config files
-api/config
+.db.js
 # dependencies
 /node_modules
